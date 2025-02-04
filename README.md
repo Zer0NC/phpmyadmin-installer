@@ -93,5 +93,5 @@ sudo apt remove --purge mariadb-server nginx php certbot -y
 This script is open-source and available under the MIT License.
 
 ## Author
-Created by [Your Name](https://github.com/yourusername). Feel free to contribute!
+Created by [ByZer0](https://ByZer0.de). Feel free to contribute!
 
